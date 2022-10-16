@@ -14,18 +14,13 @@ hr{
   border-right: 0;
   border-left: 0;
   border-color: grey;
-  border-width: 6px;
   width: 4%;
   margin: 100px auto;
 }
 body {
-   text-align: center;
-    min-height: 100vh;
-    border: 10px;
+    text-align: center;
     margin: 0;
-    padding: 0 20px 20px 20px;
     font-family: 'Montserrat', sans-serif;
-    font-size: 18px;
     color: #FFFFFF;
 }
 .top {
