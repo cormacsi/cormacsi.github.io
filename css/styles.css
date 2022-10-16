@@ -19,3 +19,7 @@ p {
   font-family: 'Montserrat', sans-serif;
   color: #FFFFFF; 
 }
+img {
+  display: block;
+  margin: 0 auto;
+}
