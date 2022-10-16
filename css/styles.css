@@ -14,7 +14,7 @@ body {
     color: #FFFFFF;
 }
 .top {
-  color: #4a82c2;
+  background-color: #4a82c2;
   position: relative;
   padding-top: 100px;
 }
@@ -27,7 +27,7 @@ a {
   color: #fac2ff;
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
-  font-size: 30px;
+  font-size: 16px;
   text-decoration: none;
 }
 a:hover{
@@ -45,7 +45,7 @@ a:hover{
   padding: 50px 0 20px;
 }
 .copyright{
-  color: #4a82c2;
+  background-color: #4a82c2;
   font-size: 0.75rem;
   padding: 20px 0;
 }
