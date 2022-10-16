@@ -8,11 +8,11 @@ body {
     line-height: 18;
     color: #FFFFFF;
 }
-h1 { 
-  font-family: 'Montserrat', serif;
+h2 { 
+  font-family: 'Montserrat', sans-serif;
   color: #FFFFFF;
 } 
 p { 
-  font-family: 'Montserrat', serif;
+  font-family: 'Montserrat', sans-serif;
   color: #FFFFFF; 
 }
