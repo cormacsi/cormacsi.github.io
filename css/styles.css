@@ -9,7 +9,7 @@ h3 {
   color: #5da2e3;
 }
 hr{
-  border-style: inset;
+  border-style: groove;
   border-bottom: 0;
   border-right: 0;
   border-left: 0;
