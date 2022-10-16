@@ -1,5 +1,5 @@
 html {
-  background-color: #34587D;
+  background-color: #4a82c2;
 }
 h2 { 
   text-align: center;
@@ -20,6 +20,16 @@ p {
   text-align: center;
   font-family: 'Montserrat', sans-serif;
   color: #FFFFFF; 
+}
+a {
+  color: #fac2ff;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  font-size: 30px;
+  text-decoration: none;
+}
+a:hover{
+  color: #eb98e8
 }
 img {
   display: block;
