@@ -1,3 +1,14 @@
+* {
+  marge: 0;
+  padding: 0;
+}
+section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: sans-serif;
+}
 h2, h4 { 
   text-align: center;
   font-size: 60;
