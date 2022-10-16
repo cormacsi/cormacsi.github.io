@@ -13,6 +13,8 @@ h3 {
 body {
   margin: 0;
   text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #FFFFFF;
 }
 hr{
   border-style: groove;
