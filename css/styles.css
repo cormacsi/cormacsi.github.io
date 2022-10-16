@@ -3,6 +3,11 @@ h2 {
   font-family: 'Montserrat', sans-serif;
   color: #FFFFFF;
 } 
+h3 {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #5da2e3;
+}
 body {
    text-align: center;
     min-height: 100vh;
@@ -21,10 +26,11 @@ body {
 p { 
   text-align: center;
   font-family: 'Montserrat', sans-serif;
-  color: #FFFFFF; 
 }
 a {
-  color: #fac2ff;
+  color: #fcfeff;
+}
+.footer-link {
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   font-size: 16px;
@@ -38,6 +44,14 @@ a:hover{
   margin: 0;
   width: 300px;
   height: 300px;
+}
+.skills {
+  margin: 60px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  color: #3577b5;
 }
 .bottom-container {
   background-color: #4a82c2;
