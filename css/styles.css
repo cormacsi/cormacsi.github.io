@@ -27,7 +27,6 @@ hr{
   border-left: 0;
   border-color: grey;
   width: 10%;
-  margin: 100px auto;
 }
 .top {
   background-color: #4a82c2;
@@ -79,7 +78,7 @@ hr{
   background-color: #4a82c2;
   margin-bottom: 0;
   padding-top: 100px;
-  padding-bottom: 50px;
+  padding-bottom: 20px;
 }
 .copyright{
   background-color: #4a82c2;
