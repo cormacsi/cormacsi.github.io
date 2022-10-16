@@ -3,9 +3,7 @@ html {
 }
 body {
     margin: 0;
-    padding: 0 20px 20px 20px;
-  
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', serif;
     font-size: 18px;
     line-height: 15;
     color: #FFFFFF;
@@ -15,8 +13,10 @@ img {
   margin: 0 auto;
 }
 h1 { 
-  color: #FFFFFF; 
+  font-family: 'Montserrat', serif;
+  color: #FFFFFF;
 } 
 p { 
+  font-family: 'Montserrat', serif;
   color: #FFFFFF; 
 }
