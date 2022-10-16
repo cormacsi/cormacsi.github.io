@@ -28,6 +28,16 @@ hr{
   border-color: grey;
   width: 10%;
 }
+.burger-menu-button {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  z-index: 30;
+  width: 80px;
+  hight: 80px;
+  border-radius: 50%;
+  background-color: #d4ddff;
+}
 .top {
   background-color: #4a82c2;
   position: relative;
