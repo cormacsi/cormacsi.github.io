@@ -11,6 +11,14 @@ h3 {
   color: #5da2e3;
   padding-bottom: 30px;
 }
+.menu {
+  background-color: #4a82c2;
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  width: 30px;
+  height: 30px;
+}
 body {
   margin: 0;
   text-align: center;
