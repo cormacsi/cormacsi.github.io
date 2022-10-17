@@ -60,22 +60,27 @@ hr{
   width: 300px;
   height: 300px;
 }
-.container {
+.desktop {
     display: block;
-    margin: 0 auto;
+    margin: 0;
+    left: 0px;
     height: 100vh;
     width: 100%;
 }
-.container img {
-    margin: 0;
-    max-height: 700px;
+.desktop img {
+    max-height: 720px;
     object-fit: cover;
 }
-.desktop {
-  left: 0px;
-}
 .mountain {
-  right: 0px;
+    display: block;
+    margin: 0;
+    right: 0px;
+    height: 100vh;
+    width: 100%;
+}
+.mountain img {
+    max-height: 720px;
+    object-fit: cover;
 }
 .skills {
   margin: 0;
