@@ -114,7 +114,7 @@ hr{
   font-size: 0.75rem;
   padding: 20px 0;
 }
-.my-menu-button {
+.my-menu_button {
   position: fixed;
   top: 10px;
   left: 10px;
@@ -123,4 +123,17 @@ hr{
   hight: 80px;
   border-radius: 50%;
   background-color: #d4ddff;
+}
+.my-menu_nav {
+  background-color: #4a82c2;
+}
+.my-menu_link {
+  color: #fcfeff;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  font-size: 16px;
+  text-decoration: none;
+}
+.my-menu_link:hover {
+  color: #5da2e3;
 }
