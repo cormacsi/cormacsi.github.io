@@ -61,7 +61,7 @@ hr{
   height: 300px;
 }
 .desktop {
-    position: relative;
+    display: inline;
     margin: 0;
     left: 0px;
     height: 100vh;
@@ -72,7 +72,7 @@ hr{
     object-fit: cover;
 }
 .mountain {
-    position: relative;
+    display: inline;
     margin: 0;
     right: 0px;
     height: 100vh;
