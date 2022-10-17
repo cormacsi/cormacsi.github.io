@@ -56,11 +56,13 @@ hr{
 }
 .desktop {
   left: 0px;
-  height: 100vh;
+  max-height: 100%;
+  width: auto;
 }
 .mountain {
   right: 0px;
-  height: 100vh;
+  max-height: 100%;
+  width: auto;
 }
 .skills {
   margin: 60px auto 100px auto;
