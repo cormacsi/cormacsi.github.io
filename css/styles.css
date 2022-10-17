@@ -67,19 +67,18 @@ hr{
     width: 100%;
 }
 .container img {
-    max-height: 800px;
+    margin: 0;
+    max-height: 700px;
     object-fit: cover;
 }
 .desktop {
-  margin: 0;
   left: 0px;
 }
 .mountain {
-  margin: 0;
   right: 0px;
 }
 .skills {
-  margin: 60px auto 100px auto;
+  margin: 0;
   padding-top: 50px;
   padding-bottom: 50px;
   width: 50%;
@@ -89,7 +88,7 @@ hr{
   color: #3577b5;
 }
 .resume {
-  margin: 50px auto 80px auto;
+  margin: 0;
   padding-top: 50px;
   padding-bottom: 50px;
   width: 50%;
