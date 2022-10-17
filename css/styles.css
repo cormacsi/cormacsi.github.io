@@ -54,6 +54,14 @@ hr{
   width: 300px;
   height: 300px;
 }
+.desktop {
+  left: 0px;
+  height: 100vh;
+}
+.mountain {
+  right: 0px;
+  height: 100vh;
+}
 .skills {
   margin: 60px auto 100px auto;
   padding-top: 50px;
