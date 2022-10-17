@@ -61,7 +61,7 @@ hr{
   height: 300px;
 }
 .desktop {
-    display: block;
+    position: relative;
     margin: 0;
     left: 0px;
     height: 100vh;
@@ -69,10 +69,9 @@ hr{
 }
 .desktop img {
     max-height: 720px;
-    object-fit: cover;
 }
 .mountain {
-    display: block;
+    position: relative;
     margin: 0;
     right: 0px;
     height: 100vh;
@@ -80,10 +79,9 @@ hr{
 }
 .mountain img {
     max-height: 720px;
-    object-fit: cover;
 }
 .skills {
-  margin: 0;
+  margin: 50px auto 50px auto;
   padding-top: 50px;
   padding-bottom: 50px;
   width: 50%;
@@ -93,7 +91,7 @@ hr{
   color: #3577b5;
 }
 .resume {
-  margin: 0;
+  margin: 50px auto 50px auto;
   padding-top: 50px;
   padding-bottom: 50px;
   width: 50%;
