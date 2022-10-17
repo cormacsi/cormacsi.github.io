@@ -62,22 +62,22 @@ hr{
 }
 .desktop {
     display: block;
-    margin-left: 0px;
+    margin 0;
     height: 100vh;
     width: 100%;
 }
 .desktop img {
-    max-height: 720px;
+    max-height: 700px;
     object-fit: cover;
 }
 .mountain {
     display: block;
-    margin-right: 0px;
+    margin: 0;
     height: 100vh;
     width: 100%;
 }
 .mountain img {
-    max-height: 720px;
+    max-height: 700px;
     object-fit: cover;
 }
 .skills {
