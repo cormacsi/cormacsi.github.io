@@ -126,7 +126,8 @@ hr{
 }
 .my-menu_nav {
   background-color: #3577b5;
-  padding: 10px 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 .my-menu_link {
   color: #fcfeff;
