@@ -69,6 +69,7 @@ hr{
 }
 .desktop img {
     max-height: 720px;
+    object-fit: cover;
 }
 .mountain {
     position: relative;
@@ -79,6 +80,7 @@ hr{
 }
 .mountain img {
     max-height: 720px;
+    object-fit: cover;
 }
 .skills {
   margin: 50px auto 50px auto;
