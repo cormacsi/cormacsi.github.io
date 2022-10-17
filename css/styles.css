@@ -1,7 +1,13 @@
 section {
   height: 100vh;
 }
-h2, h4 { 
+h2 {
+  text-align: center;
+  font-size: 70;
+  font-family: 'Caveat', sans-serif;
+  color: #FFFFFF; 
+}
+h4 { 
   text-align: center;
   font-size: 60;
   font-family: 'Montserrat', sans-serif;
