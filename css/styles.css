@@ -3,23 +3,21 @@ section {
 }
 h2 {
   text-align: center;
-  font-size: 4rem;
+  font-size: 3rem;
   font-family: 'Caveat', sans-serif;
   color: #FFFFFF; 
 }
-h4 { 
-  text-align: center;
-  font-size: 4rem;
-  font-family: 'Montserrat', sans-serif;
-  color: #FFFFFF;
-} 
 h3 {
   text-align: center;
-  font-size: 4rem;
   font-family: 'Montserrat', sans-serif;
   color: #5da2e3;
   padding-bottom: 40px;
 }
+h4 { 
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #FFFFFF;
+} 
 body {
   margin: 0;
   text-align: center;
