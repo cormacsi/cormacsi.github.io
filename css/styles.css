@@ -82,26 +82,18 @@ body {
     padding-top: 0;
     padding-bottom: 0;
 }
-.picture {
-    /*  background-color: #085078; */
-      width: 60%;
-      min-width: 250px;
-      max-width: 330px;
+.mobile {
+      width: 350px;
       float: right;
       margin: 0 auto;
       padding-top: 20px;
-    }
-  .mobile {
-    width: 50vw;
-    margin: 0 auto;
-    padding-left: 30px;
-  }
+}
   .skills{
     margin: 0 auto;
-    width: 70%;
+    width: 80%;
     text-align: left;
-    padding-bottom: 60px;
-    padding-left: 7vw;
+    padding-bottom: 200px;
+    padding-left: 15vw;
   }
   up {
     margin: 0 auto;
@@ -128,7 +120,14 @@ body {
       color: #3577b5;
   }
   .biography {
-     margin: 0 15px 0 15px;
+     margin: 15px 15px 0 15px;
+  }
+  .castle {
+    width: 18vw;
+    max-width: 300px;
+    margin-left: 40%;
+    margin-top: 25px;
+    opacity: 60%;
   }
   .soft-skills {
       height: auto;
@@ -226,4 +225,41 @@ body {
   }
   .my-menu_link:hover {
     color: #feffc4;
+  }
+
+  @media (max-width: 767px) {
+    .mobile {
+        position: absolute;
+        top: 1020px;
+        left: 36vw;
+        width: 30vw;
+        max-width: 300px;
+        min-width: 200px;
+        margin: 0;
+        padding-left: 0px;
+      }
+      .desktop {
+        margin: 0;
+        height: 100vh;
+        width: auto;
+        background: url('../images/desktop.JPG');
+        background-position: 100% 50%;
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+    }
+    .mountain {
+        margin: 0;
+        height: 100vh;
+        width: auto;
+        background: url('../images/mountain.JPG');
+        background-position:bottom right;
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+    }
+    .castle {
+        opacity: 0;
+    }
+    .skills{
+        padding-left: 150px;
+    }
   }
