@@ -1,5 +1,6 @@
  section {
-    margin: 0;
+    margin-top: 0;
+    margin-bottom: 0;
     min-height: 100vh;
     background-color: white;
  }
@@ -31,11 +32,11 @@ h4 {
     color: #FFFFFF;
 } 
 h5 {
+    margin-bottom: 0;
     text-align: center;
     font-size: 1.75rem;
     font-family: 'Chakra Petch';
     color: #5da2e3;
-    padding-top: 30px;
 }
 body {
     width: 100vw;
@@ -78,23 +79,28 @@ body {
 .layer {
     width: 90%;
     margin: 0 auto;
-  /*  background-color: #26D0CE; */
+    padding-top: 0;
+    padding-bottom: 0;
 }
-  .picture {
-  /*  background-color: #085078; */
-    width: 60%;
-    min-width: 250px;
-    max-width: 350px;
-    float: right;
+.picture {
+    /*  background-color: #085078; */
+      width: 60%;
+      min-width: 250px;
+      max-width: 330px;
+      float: right;
+      margin: 0 auto;
+      padding-top: 20px;
+    }
+  .mobile {
+    width: 50vw;
     margin: 0 auto;
+    padding-left: 30px;
   }
   .skills{
-  /*  background-color: #e1ea69;*/
     margin: 0 auto;
     width: 70%;
     text-align: left;
-    padding-top: 3vw;
-    padding-bottom: 100px;
+    padding-bottom: 60px;
     padding-left: 7vw;
   }
   up {
@@ -215,7 +221,7 @@ body {
     color: #fcfeff;
     font-family: 'Montserrat', sans-serif;
     margin: 10px 10px;
-    font-size: 16px;
+    font-size: 14px;
     text-decoration: none;
   }
   .my-menu_link:hover {
