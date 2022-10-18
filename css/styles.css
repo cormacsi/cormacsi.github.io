@@ -139,14 +139,13 @@ body {
       background-color: white;
       margin: 0 5%;
       width: 50%;
-      padding-top: 20px;
-      padding-bottom: 70px;
       color: #3b5c4c;
   }
   .desktop {
       margin: 0;
       height: 100vh;
       min-height: 600px;
+      max-width: 100%;
       background: url('../images/desktop.JPG');
       background-position: 0 0;
       background-repeat: no-repeat;
