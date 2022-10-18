@@ -88,10 +88,8 @@ body {
 .layer {
     width: 90%;
     margin: 0 auto;
-    background-color: #26D0CE;
 }
   .picture {
-    background-color: #085078;
     width: 60%;
     min-width: 250px;
     max-width: 350px;
@@ -99,7 +97,6 @@ body {
     margin: 0 auto;
   }
   .skills{
-    background-color: #e1ea69;
     margin: 0 auto;
     width: 70%;
     text-align: left;
