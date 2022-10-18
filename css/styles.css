@@ -18,6 +18,7 @@
     color: #FFFFFF; 
 }
 h3 {
+    margin: 0;
     text-align: center;
     font-size: 2rem;
     font-family: 'Caveat';
@@ -34,6 +35,7 @@ h5 {
     font-size: 1.75rem;
     font-family: 'Chakra Petch';
     color: #5da2e3;
+    padding-top: 30px;
 }
 body {
     width: 100vw;
@@ -82,19 +84,26 @@ body {
     width: 300px;
     height: 300px;
   }
-  .skills {
-    height: auto;
-    background-color: #ffffff;
-    margin: 0 auto 0 auto;
-    padding-top: 80px;
-    padding-bottom: 180px;
-    width: 40%;
+.layer {
+    margin-left: 150px;
+    margin-right: 60px;
+    margin-bottom: 70px;
+    background-color: white;
+}
+  .picture {
+    height: 60vh;
+    min-height: 350px;
+    position: absolute;
+    left: 45%;
+    right: 0;
   }
   up {
     text-align: left;
     font-family: 'Chakra Petch';
     font-size: 18px;
     color: #3577b5;
+    left: 20%;
+    right: 0;
   }
   .grey {
      background-image: linear-gradient(to right, #2b5876 0%, #4e4376  51%, #2b5876  100%);
@@ -142,7 +151,7 @@ body {
       min-height: 600px;
       max-width: 100%;
       background: url('../images/mountain.JPG');
-      background-position: 100% 50%;
+      background-position: 100% 100%;
       background-repeat: no-repeat;
       background-size: contain;
   }
