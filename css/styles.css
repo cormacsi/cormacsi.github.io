@@ -88,8 +88,10 @@ body {
 .layer {
     width: 90%;
     margin: 0 auto;
+  /*  background-color: #26D0CE; */
 }
   .picture {
+  /*  background-color: #085078; */
     width: 60%;
     min-width: 250px;
     max-width: 350px;
@@ -97,6 +99,7 @@ body {
     margin: 0 auto;
   }
   .skills{
+  /*  background-color: #e1ea69;*/
     margin: 0 auto;
     width: 70%;
     text-align: left;
@@ -144,7 +147,6 @@ body {
       margin: 0;
       height: 100vh;
       min-height: 600px;
-      max-width: 100%;
       background: url('../images/desktop.JPG');
       background-position: 0 0;
       background-repeat: no-repeat;
@@ -154,7 +156,6 @@ body {
       margin: 0;
       height: 100vh;
       min-height: 600px;
-      max-width: 100%;
       background: url('../images/mountain.JPG');
       background-position: 100% 100%;
       background-repeat: no-repeat;
