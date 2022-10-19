@@ -4,12 +4,11 @@
 
 <div align="center">
   <a href="https://cormacsi.github.io">
-    <img src="images/website.png" alt="Logo" width="200" height="200">
+    <img src="images/website.png" alt="Logo" width="250" height="250">
   </a>
   <h3 align="center">The Best Website Ever:</h3>
   <p align="center">
     You can find information on my skills, education and experience on my website.
-    <br />
     <br />
     <a href="https://github.com/cormacsi/cormacsi.github.io"><strong>Explore the project -»</strong></a>
     <br />
@@ -41,21 +40,30 @@
   </ol>
 </details>
 
+
+<!-- [![Project Screen Shot][project-screenshot]][my-website] -->
 ## About The Project
+<a href="#about-the-project">
+   <img src="images/screen.png" alt="" width="330"><br />
+</a>
+Check out my <a href='https://cormacsi.github.io'>web-site</a>. It's awesome and it's about me.<br />
 
-<!-- PICTURE [![Project Screen Shot][project-screenshot]][my-website] -->
-
-Check out my <a href='https://cormacsi.github.io'>web-site</a>. It's awesome.<br />
+ <a href="#about-the-project">
+    <img src="images/mobilescreen.png" alt="" width="330">
+ </a>
+ <br />
+I made it adaptive for mobile phones and different sizes of screen.<br />
 By the way, it's my first website.
 
 ### Build with
 
-Here I post a list of the major frameworks and libraries used to bootstrap my project.
+Here is a list of major instruments, facilities, integrated development environments, languages and other valuable resources that I used to create my project.
 
 * [![MDN][MDN.badge]][MDN-url]
 * [![VSCode][VSCode.badge]][VSCode-url]
 * [![HTML][HTML.badge]][HTML-url]
 * [![CSS][CSS.badge]][CSS-url]
+* [![Youtube][Youtube.badge]][Youtube-url]
 
 ## Gratitude
 
@@ -116,6 +124,7 @@ Link : [https://github.com/cormacsi/cormacsi.github.io](https://github.com/corma
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
+
 [WesiteMine.badge]: images/personal-website.svg
 [GitMine.badge]: images/github-cormacsi.svg
 [GitMine-url]: https://github.com/cormacsi/
@@ -130,14 +139,16 @@ Link : [https://github.com/cormacsi/cormacsi.github.io](https://github.com/corma
 
 [project-screenshot]: images/screen.png
 [my-website]: https://cormacsi.github.io
-[HTML.badge]: https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat
+[HTML.badge]: https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square
 [HTML-url]: https://developer.mozilla.org/ru/docs/Learn/HTML
-[CSS.badge]: https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat
+[CSS.badge]: https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square
 [CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[MDN.badge]: https://img.shields.io/badge/MDN%20Web%20Docs-000?logo=mdnwebdocs&logoColor=fff&style=flat
+[MDN.badge]: https://img.shields.io/badge/MDN%20Web%20Docs-000?logo=mdnwebdocs&logoColor=fff&style=flat-square
 [MDN-url]: https://developer.mozilla.org/ru/
-[VSCode.badge]: https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat
+[VSCode.badge]: https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square
 [VSCode-url]: https://code.visualstudio.com
+[Youtube.badge]: https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat-square
+[Youtube-url]: http://youtube.com
 
 [Icon.badge]: images/free-icons.svg
 [Icon-url]: https://icon-icons.com
