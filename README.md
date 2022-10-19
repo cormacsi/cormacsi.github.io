@@ -1,12 +1,14 @@
 <a name="readme-top"></a>
 
+#My website
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/website.png" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">Best website ever:</h3>
   <p align="center">
-    You can find information on my skills, education, experience on my website.
+    You can find information on my skills, education and experience on my website.
+    <br />
     <br />
     <a href="https://github.com/cormacsi/cormacsi.github.io"><strong>Explore the project -»</strong></a>
     <br />
