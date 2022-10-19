@@ -229,9 +229,6 @@ body {
 
   @media (max-width: 767px) {
     .mobile {
-        position: absolute;
-        top: 1000px;
-        left: 35vw;
         width: 30vw;
         max-width: 300px;
         min-width: 200px;
@@ -243,20 +240,20 @@ body {
         height: 100vh;
         width: auto;
         background: url('../images/desktop.JPG');
-        background-position: 100% 50%;
+        background-position: 50% 50%;
         background-repeat: no-repeat;
-        background-size: 100% auto;
+        background-size: cover;
     }
     .mountain {
         margin: 0;
         height: 100vh;
         width: auto;
         background: url('../images/mountain.JPG');
-        background-position:bottom right;
+        background-position: 50% 50%;
         background-repeat: no-repeat;
-        background-size: 100% auto;
+        background-size: cover;
     }
     .skills{
-        padding-left: 150px;
+        padding-left: 130px;
     }
   }
