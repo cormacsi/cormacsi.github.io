@@ -74,9 +74,10 @@ Here is a list of **resources** that I found helpful and would like to give cred
 * [![SimpleIcons][SimpleIcons.badge]][SimpleIcons-url]
 * [![SimpleBadges][SimpleBadges.badge]][SimpleBadges-url]
 * [![Shields][Shields-io.badge]][Shields-io-url]
-* [![Shield-io-Git][Shield-io-Git.badge]][Shield-io-Git-url] - 
-* [![GitHubBadges][GitHubBadges.badge]][GitHub-url] - Badges4 Project
-* [![GitMark][GitMark.badge]][GitMark-url] - 
+* [![FortheBadge][FortheBadge.badge]][FortheBadge-url]
+* [![Shield-io-Git][Shield-io-Git.badge]][Shield-io-Git-url]
+* [![GitHubBadges][GitHubBadges.badge]][GitHub-url]
+* [![GitMark][GitMark.badge]][GitMark-url]
 
 ## My Personal Inspiration
 
@@ -138,25 +139,25 @@ Link : [https://github.com/cormacsi/cormacsi.github.io](https://github.com/corma
 [VSCode.badge]: https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat
 [VSCode-url]: https://code.visualstudio.com
 
-[Icon.badge]: 
+[Icon.badge]: images/free-icons.svg
 [Icon-url]: https://icon-icons.com
-[Color.badge]:
+[Color.badge]: images/css-colors.svg
 [Color-url]: https://csscolor.ru
-[CSSGradient-io]: 
+[CSSGradient-io]: images/css-gradient.svg
 [CSSGradient-io-url]: https://cssgradient.io/
-[MarkdownGuide.badge]:
+[MarkdownGuide.badge]: images/markdown-guide.svg
 [MarkdownGuide-url]: https://www.markdownguide.org/basic-syntax/#reference-style-links
-[SimpleIcons.badge]: 
+[SimpleIcons.badge]: images/simple-icons.svg
 [SimpleIcons-url]: https://simpleicons.org/
-[SimpleBadges.badge]: 
+[SimpleBadges.badge]: images/simple-badges.svg
 [SimpleBadges-url]: https://badges.pages.dev/
-[Shields-io.badge]:
+[Shields-io.badge]: images/shields-io.svg
 [Shields-io-url]: https://shields.io
-[Shield-io-Git.badge]:
+[Shield-io-Git.badge]: images/github-shields-io.svg
 [Shield-io-Git-url]: https://github.com/badges/shields
-[GitHubBadges.badge]: 
+[GitHubBadges.badge]: images/readme-badges-4.svg
 [GitHub-url]: https://github.com/alexandresanlim/Badges4-README.md-Profile
-[GitMark.badge]:
+[GitMark.badge]: images/markdown-guide.svg
 [GitMark-url]: https://gist.github.com/timseriakov/3ca738c41e417fde5731e0a97e8c1356
-[FortheBadge.badge]:
+[FortheBadge.badge]: images/forthe-badge-generator.svg
 [FortheBadge-url]: https://forthebadge.com/generator/
