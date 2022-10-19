@@ -3,7 +3,7 @@
 # My website
 
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://cormacsi.github.io">
     <img src="images/website.png" alt="Logo" width="200" height="200">
   </a>
   <h3 align="center">The Best Website Ever:</h3>
@@ -43,12 +43,15 @@
 
 ## About The Project
 
-
+<!-- PICTURE [![Project Screen Shot][project-screenshot]][my-website] -->
 
 Check out my <a href='https://cormacsi.github.io'>web-site</a>. It's awesome.<br />
 By the way, it's my first website.
 
 ### Build with
+
+Here I post a list of the major frameworks and libraries used to bootstrap my project.
+
 * [![MDN][MDN.badge]][MDN-url]
 * [![VSCode][VSCode.badge]][VSCode-url]
 * [![HTML][HTML.badge]][HTML-url]
@@ -99,12 +102,33 @@ _“Never Gonna Give You Up”_ was a global smash on its release in July 1987, 
 Link : [https://github.com/cormacsi/cormacsi.github.io](https://github.com/cormacsi/cormacsi.github.io)
 
 ## Contacts
+[![GitMine][GitMine.badge]][GitMine-url]
+[![WhatsApp][WhatsApp.badge]][WhatsApp-url]
+[![Telegram][Telegram.badge]][Telegram-url]
+<br />
+[![GmailMine][GmailMine.badge]][GmailMine-url]
+[![WesiteMine][WesiteMine.badge]][my-website]
+[![Instagram][Instagram.badge]][Instagram-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
+[WesiteMine.badge]: images/personal-website.svg
+[GitMine.badge]: images/github-cormacsi.svg
+[GitMine-url]: https://github.com/cormacsi/
+[Telegram.badge]: images/telegram-ampolza.svg
+[Telegram-url]: https://t.me/ampolza
+[Instagram.badge]: images/instagram-polyaperry.svg
+[Instagram-url]: https://www.instagram.com
+[GmailMine.badge]: images/gmail-me.svg
+[GmailMine-url]: mailto:name@email.com
+[WhatsApp.badge]: images/whatsapp-me.svg
+[WhatsApp-url]: https://web.whatsapp.com
+
+[project-screenshot]: images/screen.png
+[my-website]: https://cormacsi.github.io
 [HTML.badge]: https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat
 [HTML-url]: https://developer.mozilla.org/ru/docs/Learn/HTML
 [CSS.badge]: https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat
@@ -136,5 +160,3 @@ Link : [https://github.com/cormacsi/cormacsi.github.io](https://github.com/corma
 [GitMark-url]: https://gist.github.com/timseriakov/3ca738c41e417fde5731e0a97e8c1356
 [FortheBadge.badge]:
 [FortheBadge-url]: https://forthebadge.com/generator/
-
-
