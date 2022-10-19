@@ -11,7 +11,7 @@
     color:  #5da2e3;
     padding-bottom: 30px;
 }
- h2 {
+h2 {
     margin: 0;
     text-align: center;
     font-size: 3rem;
@@ -44,8 +44,8 @@ body {
     text-align: center;
     font-size: 16px;
     font-family: 'Montserrat', sans-serif;
-  }
-  hr{
+}
+hr{
     margin-top: 0;
     margin-bottom: 0;
     border-style: groove;
@@ -56,26 +56,27 @@ body {
     border-color: grey;
     border-width: 1px;
     width: 100%;
-  }
-  .top {
+}
+.top {
     height: auto;
     margin: 0;
     padding-bottom: 50px;
-    background-image: radial-gradient( circle farthest-corner at 92.3% 71.5%,  rgba(83,138,214,1) 0%, rgba(134,231,214,1) 90% );
+    background-image: radial-gradient( circle farthest-corner at 92.3% 71.5%, 
+     rgba(83,138,214,1) 0%, rgba(134,231,214,1) 90% );
     position: relative;
-  }
-  .upper-link {
+}
+.upper-link {
     color: #3577b5;
-  }
-  .upper-link:hover {
+}
+.upper-link:hover {
     color: #5da2e3;
-  }
-  .photo {
+}
+.photo {
     width: 300px;
     height: 300px;
     float: left;
     margin-right: 150px;
-  }
+}
 .layer {
     width: 90%;
     margin: 0 auto;
@@ -83,34 +84,36 @@ body {
     padding-bottom: 0;
 }
 .mobile {
-      width: 350px;
+      width: 400px;
       float: right;
       margin: 0 auto;
-      padding-top: 20px;
+      padding-top: 0;
+      padding-right: 30px;
 }
-  .skills{
+.skills {
+    padding-top: 20px;
     margin: 0 auto;
     width: 80%;
     text-align: left;
     padding-bottom: 200px;
     padding-left: 15vw;
-  }
-  up {
+}
+up {
     margin: 0 auto;
     font-family: 'Chakra Petch';
-    font-size: 18px;
+    font-size: 22px;
     color: #69abea;
-  }
-  .grey {
+}
+.grey {
      background-image: linear-gradient(to right, #2b5876 0%, #4e4376  51%, #2b5876  100%);
-    }
-  .green {
+}
+.green {
     background-image: linear-gradient(to right, #085078 0%, #85D8CE  51%, #085078  100%);
-  }
-  .green_text {
+}
+.green_text {
     color: #3b5c4c;
-  }
-  .education {
+}
+.education {
       height: auto;
       background-color: white;
       width: 50%;
@@ -118,11 +121,11 @@ body {
       padding-top: 20px;
       padding-bottom: 50px;
       color: #3577b5;
-  }
-  .biography {
+}
+.biography {
      margin: 15px 15px 0 15px;
-  }
-  .soft-skills {
+}
+.soft-skills {
       height: auto;
       background-color: white;
       margin: 0 5%;
@@ -130,8 +133,8 @@ body {
       padding-top: 20px;
       padding-bottom: 70px;
       color: #3b5c4c;
-  }
-  .desktop {
+}
+.desktop {
       margin: 0;
       height: 100vh;
       min-height: 600px;
@@ -140,8 +143,8 @@ body {
       background-position: 0 0;
       background-repeat: no-repeat;
       background-size: contain;
-  }
-  .mountain {
+}
+.mountain {
       margin: 0;
       height: 100vh;
       min-height: 600px;
@@ -149,8 +152,8 @@ body {
       background-position: bottom right;
       background-repeat: no-repeat;
       background-size: contain;
-  }
-  .resume {
+}
+.resume {
     background-color: white;
     width: 60%;
     height: auto;
@@ -158,43 +161,43 @@ body {
     padding-top: 100px;
     padding-bottom: 120px;
     color: #3577b5;
-  }
-  .citation {
+}
+.citation {
       font-family: 'Sacramento';
       font-size: 1.85rem;
-  }
-  .bottom-container {
+}
+.bottom-container {
     background-color: #A9C9FF;
     background-image: linear-gradient(180deg, #4a82c2 0%, #FFBBEC 100%);
     margin-top: 0;
     margin-bottom: 0;
     padding-top: 40px;
     padding-bottom: 20px;
-  }
-  .social_net {
+}
+.social_net {
     width: 40px;
     margin: 0 8px;
-  }
-  .icons {
+}
+.icons {
     margin: 0 auto;
     text-decoration: none;
-  }
-  .footer-link {
+}
+.footer-link {
     color: #fcfeff;
     font-family: 'Montserrat', sans-serif;
     margin: 0;
     font-size: 13px;
     text-decoration: none;
-  }
-  .footer-link:hover {
+}
+.footer-link:hover {
     color: #FFBBEC;
-  }
-  .copyright{
+}
+.copyright{
     font-size: 0.75rem;
     padding: 20px 0;
     color: white;
-  }
-  .my-menu_button {
+}
+.my-menu_button {
     position: fixed;
     top: 10px;
     left: 10px;
@@ -203,30 +206,50 @@ body {
     height: 80px;
     border-radius: 50%;
     background-color: #F8FFAE;
-  }
-  .my-menu_nav {
+}
+.my-menu_nav {
     background-image: linear-gradient(to right, #085078 0%, #26D0CE  51%, #085078  100%);
     padding-top: 10px;
     padding-bottom: 10px;
-  }
-  .my-menu_link {
+}
+.my-menu_link {
     color: #fcfeff;
     font-family: 'Montserrat', sans-serif;
     margin: 10px 10px;
     font-size: 14px;
     text-decoration: none;
-  }
-  .my-menu_link:hover {
+}
+.my-menu_link:hover {
     color: #feffc4;
-  }
-
-  @media (max-width: 767px) {
+}
+.btn-grad {
+    width: 200px;
+    background-image: linear-gradient(to right, #ef32d9 0%, #5FC3E4  51%, #ef32d9  100%);
+    margin: 40px auto;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+    font-size: 18px;
+    text-decoration: none;
+}
+.btn-grad:hover {
+    background-position: right center; 
+    color: #fff;
+    text-decoration: none;
+}
+@media (max-width: 767px) {
     .mobile {
-        background-color: #26D0CE;
         width: 250px;
-        margin: 2%;
-        padding-right: 180px;
-        padding-left: 180px;
+        float: left;
+        padding-top: 0;
+        padding-right: 0;
+        margin: 5px;
       }
       .desktop {
         margin: 0;
@@ -247,7 +270,10 @@ body {
         background-size: cover;
     }
     .skills {
-        padding-left: 130px;
-        padding-bottom: 60px;
+        width: 250px;
+        padding-bottom: 40px;
+        padding-top: 0;
+        padding-left: 0;
     }
-  }
+}
+ 
