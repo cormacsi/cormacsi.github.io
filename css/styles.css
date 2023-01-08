@@ -75,8 +75,12 @@ hr{
 .photo {
     width: 300px;
     height: 300px;
-    float: left;
-    margin-right: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+/*     float: left;
+    margin-right: 150px; */
 }
 .layer {
     width: 90%;
