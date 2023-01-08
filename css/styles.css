@@ -58,7 +58,8 @@ hr{
     width: 100%;
 }
 .top {
-    height: 100vh;
+    min-height: 100%;
+    width: 100%;
     margin: 0;
     padding-bottom: 50px;
     background-image: radial-gradient( circle farthest-corner at 92.3% 71.5%, 
